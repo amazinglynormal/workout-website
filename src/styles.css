@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: bisque;
+  height: 5rem;
+}
+
+aside {
+  position: fixed;
+  top: 5rem;
+  left: 0;
+  width: 200px;
+  background-color: aquamarine;
+}
+
+main {
+  margin-left: 200px;
+  background-color: lavender;
+}
