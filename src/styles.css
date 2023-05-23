@@ -21,3 +21,8 @@ main {
   margin-left: 200px;
   background-color: lavender;
 }
+
+table,
+td {
+  border: 1px solid black;
+}
