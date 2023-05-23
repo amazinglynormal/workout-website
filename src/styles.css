@@ -22,6 +22,10 @@ main {
   background-color: lavender;
 }
 
+section {
+  max-width: 900px;
+}
+
 table,
 td {
   border: 1px solid black;
