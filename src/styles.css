@@ -4,9 +4,10 @@
   box-sizing: border-box;
 }
 
-h1 {
+header {
   background-color: bisque;
   height: 5rem;
+  padding-left: 200px;
 }
 
 aside {
